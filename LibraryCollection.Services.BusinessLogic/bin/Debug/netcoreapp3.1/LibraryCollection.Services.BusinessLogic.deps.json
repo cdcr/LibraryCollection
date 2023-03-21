@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "LibraryCollection.Services.BusinessLogic/1.0.0": {
+        "dependencies": {
+          "LibraryCollection.Domain.Abstractions": "1.0.0"
+        },
+        "runtime": {
+          "LibraryCollection.Services.BusinessLogic.dll": {}
+        }
+      },
+      "LibraryCollection.Domain.Abstractions/1.0.0": {
+        "dependencies": {
+          "LibraryCollection.Domain.Entities": "1.0.0"
+        },
+        "runtime": {
+          "LibraryCollection.Domain.Abstractions.dll": {}
+        }
+      },
+      "LibraryCollection.Domain.Entities/1.0.0": {
+        "runtime": {
+          "LibraryCollection.Domain.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LibraryCollection.Services.BusinessLogic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LibraryCollection.Domain.Abstractions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LibraryCollection.Domain.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

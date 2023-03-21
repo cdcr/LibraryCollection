@@ -1,0 +1,109 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "LibraryCollection.Domain.Abstractions/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "LibraryCollection.Domain.Entities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/LibraryCollection.Domain.Abstractions.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LibraryCollection.Domain.Abstractions.dll": {}
+        }
+      },
+      "LibraryCollection.Domain.Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/LibraryCollection.Domain.Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LibraryCollection.Domain.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LibraryCollection.Domain.Abstractions/1.0.0": {
+      "type": "project",
+      "path": "../LibraryCollection.Domain.Abstractions/LibraryCollection.Domain.Abstractions.csproj",
+      "msbuildProject": "../LibraryCollection.Domain.Abstractions/LibraryCollection.Domain.Abstractions.csproj"
+    },
+    "LibraryCollection.Domain.Entities/1.0.0": {
+      "type": "project",
+      "path": "../LibraryCollection.Domain.Entities/LibraryCollection.Domain.Entities.csproj",
+      "msbuildProject": "../LibraryCollection.Domain.Entities/LibraryCollection.Domain.Entities.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "LibraryCollection.Domain.Abstractions >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\pjmfb\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\repos2023\\LibraryCollection\\LibraryCollection.Services.BusinessLogic\\LibraryCollection.Services.BusinessLogic.csproj",
+      "projectName": "LibraryCollection.Services.BusinessLogic",
+      "projectPath": "C:\\repos2023\\LibraryCollection\\LibraryCollection.Services.BusinessLogic\\LibraryCollection.Services.BusinessLogic.csproj",
+      "packagesPath": "C:\\Users\\pjmfb\\.nuget\\packages\\",
+      "outputPath": "C:\\repos2023\\LibraryCollection\\LibraryCollection.Services.BusinessLogic\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\pjmfb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://gitlab.com/api/v4/projects/25490890/packages/nuget/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\repos2023\\LibraryCollection\\LibraryCollection.Domain.Abstractions\\LibraryCollection.Domain.Abstractions.csproj": {
+              "projectPath": "C:\\repos2023\\LibraryCollection\\LibraryCollection.Domain.Abstractions\\LibraryCollection.Domain.Abstractions.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.409\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
