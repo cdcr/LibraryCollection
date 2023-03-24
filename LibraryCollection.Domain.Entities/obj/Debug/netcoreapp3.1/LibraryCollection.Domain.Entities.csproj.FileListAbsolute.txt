@@ -18,3 +18,12 @@ C:\repos2023\LibraryCollection\LibraryCollection.Domain.Entities\obj\Debug\netco
 C:\repos2023\LibraryCollection\LibraryCollection.Domain.Entities\obj\Debug\netcoreapp3.1\LibraryCollection.Domain.Entities.csproj.CoreCompileInputs.cache
 C:\repos2023\LibraryCollection\LibraryCollection.Domain.Entities\obj\Debug\netcoreapp3.1\LibraryCollection.Domain.Entities.dll
 C:\repos2023\LibraryCollection\LibraryCollection.Domain.Entities\obj\Debug\netcoreapp3.1\LibraryCollection.Domain.Entities.pdb
+C:\Users\USUARIO\source\repos\LibraryCollection\LibraryCollection.Domain.Entities\bin\Debug\netcoreapp3.1\LibraryCollection.Domain.Entities.deps.json
+C:\Users\USUARIO\source\repos\LibraryCollection\LibraryCollection.Domain.Entities\bin\Debug\netcoreapp3.1\LibraryCollection.Domain.Entities.dll
+C:\Users\USUARIO\source\repos\LibraryCollection\LibraryCollection.Domain.Entities\bin\Debug\netcoreapp3.1\LibraryCollection.Domain.Entities.pdb
+C:\Users\USUARIO\source\repos\LibraryCollection\LibraryCollection.Domain.Entities\obj\Debug\netcoreapp3.1\LibraryCollection.Domain.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\source\repos\LibraryCollection\LibraryCollection.Domain.Entities\obj\Debug\netcoreapp3.1\LibraryCollection.Domain.Entities.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\LibraryCollection\LibraryCollection.Domain.Entities\obj\Debug\netcoreapp3.1\LibraryCollection.Domain.Entities.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\LibraryCollection\LibraryCollection.Domain.Entities\obj\Debug\netcoreapp3.1\LibraryCollection.Domain.Entities.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\LibraryCollection\LibraryCollection.Domain.Entities\obj\Debug\netcoreapp3.1\LibraryCollection.Domain.Entities.dll
+C:\Users\USUARIO\source\repos\LibraryCollection\LibraryCollection.Domain.Entities\obj\Debug\netcoreapp3.1\LibraryCollection.Domain.Entities.pdb

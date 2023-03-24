@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Yu0LKaM/xCBpPSM0K72kkW619xzTmWsM77twc2tGTyt8HzdcmRzc+AIJLyV4K1OMwAc2qUKku5BdTuCvHcTOcw==",
+  "dgSpecHash": "Ah5OOqoiVioAZuc2onV2QyrtJGlFdc9XtzZF/l1B5Bs/x1b2OQdKA5p25sR+8oTzgtFNC67w1pUFeGEktGqM+A==",
   "success": true,
-  "projectFilePath": "C:\\repos2023\\LibraryCollection\\LibraryCollection.Domain.Abstractions\\LibraryCollection.Domain.Abstractions.csproj",
+  "projectFilePath": "C:\\Users\\USUARIO\\source\\repos\\LibraryCollection\\LibraryCollection.Domain.Abstractions\\LibraryCollection.Domain.Abstractions.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

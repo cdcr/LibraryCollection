@@ -24,3 +24,16 @@ C:\repos2023\LibraryCollection\LibraryCollection.Domain.Abstractions\obj\Debug\n
 C:\repos2023\LibraryCollection\LibraryCollection.Domain.Abstractions\obj\Debug\netcoreapp3.1\LibraryCollection.Domain.Abstractions.csproj.CopyComplete
 C:\repos2023\LibraryCollection\LibraryCollection.Domain.Abstractions\obj\Debug\netcoreapp3.1\LibraryCollection.Domain.Abstractions.dll
 C:\repos2023\LibraryCollection\LibraryCollection.Domain.Abstractions\obj\Debug\netcoreapp3.1\LibraryCollection.Domain.Abstractions.pdb
+C:\Users\USUARIO\source\repos\LibraryCollection\LibraryCollection.Domain.Abstractions\bin\Debug\netcoreapp3.1\LibraryCollection.Domain.Abstractions.deps.json
+C:\Users\USUARIO\source\repos\LibraryCollection\LibraryCollection.Domain.Abstractions\bin\Debug\netcoreapp3.1\LibraryCollection.Domain.Abstractions.dll
+C:\Users\USUARIO\source\repos\LibraryCollection\LibraryCollection.Domain.Abstractions\bin\Debug\netcoreapp3.1\LibraryCollection.Domain.Abstractions.pdb
+C:\Users\USUARIO\source\repos\LibraryCollection\LibraryCollection.Domain.Abstractions\bin\Debug\netcoreapp3.1\LibraryCollection.Domain.Entities.dll
+C:\Users\USUARIO\source\repos\LibraryCollection\LibraryCollection.Domain.Abstractions\bin\Debug\netcoreapp3.1\LibraryCollection.Domain.Entities.pdb
+C:\Users\USUARIO\source\repos\LibraryCollection\LibraryCollection.Domain.Abstractions\obj\Debug\netcoreapp3.1\LibraryCollection.Domain.Abstractions.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\LibraryCollection\LibraryCollection.Domain.Abstractions\obj\Debug\netcoreapp3.1\LibraryCollection.Domain.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\source\repos\LibraryCollection\LibraryCollection.Domain.Abstractions\obj\Debug\netcoreapp3.1\LibraryCollection.Domain.Abstractions.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\LibraryCollection\LibraryCollection.Domain.Abstractions\obj\Debug\netcoreapp3.1\LibraryCollection.Domain.Abstractions.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\LibraryCollection\LibraryCollection.Domain.Abstractions\obj\Debug\netcoreapp3.1\LibraryCollection.Domain.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\LibraryCollection\LibraryCollection.Domain.Abstractions\obj\Debug\netcoreapp3.1\LibraryCollection.Domain.Abstractions.csproj.CopyComplete
+C:\Users\USUARIO\source\repos\LibraryCollection\LibraryCollection.Domain.Abstractions\obj\Debug\netcoreapp3.1\LibraryCollection.Domain.Abstractions.dll
+C:\Users\USUARIO\source\repos\LibraryCollection\LibraryCollection.Domain.Abstractions\obj\Debug\netcoreapp3.1\LibraryCollection.Domain.Abstractions.pdb

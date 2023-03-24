@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PwEiFIpztiEwXfpCt2kqNhuORzBdua0DkydlZByGUA377DpTr7YnUKb8tPNDQWPPobgIGTAtyVXAwWcZa/e1Tg==",
+  "dgSpecHash": "ub3uGW+16lgl8N6DNtXgIA5rapaCF4Uljte4pGCNMQFCuu76fR4WRps1ZxU/udBVIHb4Or+ECn7bLWJVGia9pA==",
   "success": true,
-  "projectFilePath": "C:\\repos2023\\LibraryCollection\\LibraryCollection.Domain.Entities\\LibraryCollection.Domain.Entities.csproj",
+  "projectFilePath": "C:\\Users\\USUARIO\\source\\repos\\LibraryCollection\\LibraryCollection.Domain.Entities\\LibraryCollection.Domain.Entities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

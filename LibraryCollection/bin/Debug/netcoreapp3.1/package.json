@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@datorama/akita": "^8.0.1"
+  }
+}
